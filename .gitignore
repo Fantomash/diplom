@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+allure-report/
